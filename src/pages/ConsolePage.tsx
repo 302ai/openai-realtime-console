@@ -84,7 +84,7 @@ export function ConsolePage() {
       LOCAL_RELAY_SERVER_URL
         ? { url: LOCAL_RELAY_SERVER_URL }
         : {
-            url: 'wss://test-api.gpt302.com/v1/realtime',
+            url: 'wss://api.302.ai/v1/realtime',
             apiKey: apiKey,
             dangerouslyAllowAPIKeyInBrowser: true,
           }
