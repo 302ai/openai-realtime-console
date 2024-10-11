@@ -150,7 +150,7 @@ export function ConsolePage() {
    * When you click the API key
    */
   const resetAPIKey = useCallback(() => {
-    const apiKey = prompt('OpenAI API Key');
+    const apiKey = prompt('302.AI API Key');
     if (apiKey !== null) {
       localStorage.clear();
       localStorage.setItem('tmp::voice_api_key', apiKey);
