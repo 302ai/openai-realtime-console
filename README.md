@@ -1,3 +1,7 @@
+#302.AI Version Realtime Console
+部署好，填入302.AI的API KEY，则可以体验实时语音对话
+
+
 # OpenAI Realtime Console
 
 The OpenAI Realtime Console is intended as an inspector and interactive API reference
