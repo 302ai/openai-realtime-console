@@ -1,4 +1,4 @@
-#302.AI Version Realtime Console
+# 302.AI Version Realtime Console
 部署好，填入302.AI的API KEY，则可以体验实时语音对话
 
 
