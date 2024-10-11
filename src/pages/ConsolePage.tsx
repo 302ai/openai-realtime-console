@@ -665,7 +665,7 @@ export function ConsolePage() {
           <div className="content-actions">
             <Toggle
               defaultValue={false}
-              labels={['manual', 'vad']}
+              labels={['对讲机模式', '电话模式']}
               values={['none', 'server_vad']}
               onChange={(_, value) => changeTurnEndType(value)}
             />
